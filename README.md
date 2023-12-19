@@ -4,4 +4,4 @@ Store my fitinkicks recipes
 # Recipe Master List 
 
 # Savory 
-[Beef Kare Raisu (Japanese Curry)](Kare_Raisu_Beef.html)
+[Beef Kare Raisu (Japanese Curry)](Kare Raisu Beef.html)
